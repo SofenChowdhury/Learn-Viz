@@ -15,7 +15,10 @@ const Footer = () => {
       dark
     >
       <NavbarBrand>
-        Copyright © 2024 Learn-Viz. All rights reserved.
+        All rights reserved.
+      </NavbarBrand>
+      <NavbarBrand>
+        Copyright © 2024 Learn-Viz.
       </NavbarBrand>
       <NavbarBrand>
         Privacy Policy | Terms of Use
