@@ -1,0 +1,24 @@
+body{
+    background: #eceff1 !important;
+}
+
+.active .page-link{
+    background-color: black !important;
+    border-color: black !important;
+    color: white !important;
+}
+
+.page-link{
+    color: black !important;
+}
+.pagination{
+    color: gray !important;
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: black !important;
+}
+
+.btn-secondary {
+    --bs-btn-hover-bg:green !important;
+}
