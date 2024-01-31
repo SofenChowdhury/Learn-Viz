@@ -79,7 +79,7 @@ const CustomNavbar = ({ args, title }) => {
                 <DropdownItem>
                   <NavItem>
                     {/* <NavLink tag={ReactLink} to="https://github.com/reactstrap/reactstrap"> */}
-                    <NavLink tag={ReactLink} to="https://github.com/SofenChowdhury/Learn-Viz">
+                    <NavLink tag={ReactLink} target='_blank' to="https://github.com/SofenChowdhury/Learn-Viz">
                       <DropdownItem>GitHub</DropdownItem>
                     </NavLink>
                   </NavItem>
