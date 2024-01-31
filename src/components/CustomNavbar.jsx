@@ -78,7 +78,8 @@ const CustomNavbar = ({ args, title }) => {
                 <DropdownItem divider />
                 <DropdownItem>
                   <NavItem>
-                    <NavLink tag={ReactLink} to="https://github.com/reactstrap/reactstrap">
+                    {/* <NavLink tag={ReactLink} to="https://github.com/reactstrap/reactstrap"> */}
+                    <NavLink tag={ReactLink} to="https://github.com/SofenChowdhury/Learn-Viz">
                       <DropdownItem>GitHub</DropdownItem>
                     </NavLink>
                   </NavItem>
